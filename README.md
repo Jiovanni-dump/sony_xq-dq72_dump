@@ -1,0 +1,14 @@
+# XQ-DQ72-user 15 67.2.A.3.16 067002A003001600521143226 release-keys
+- manufacturer: sony
+- platform: kalama
+- codename: XQ-DQ72
+- flavor: lineage_pdx234-userdebug
+- release: 15
+- id: BP1A.250505.005
+- incremental: ca9196a385
+- tags: release-keys
+- fingerprint: Sony/XQ-DQ72/XQ-DQ72:15/67.2.A.3.16/067002A003001600521143226:user/release-keys
+- is_ab: true
+- brand: Sony
+- branch: XQ-DQ72-user-15-67.2.A.3.16-067002A003001600521143226-release-keys
+- repo: sony_xq-dq72_dump
